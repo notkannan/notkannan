@@ -2,7 +2,7 @@
 - I'm a software engineering graduate student based in Boston. MA :)
   
 ## Currently Working in
-  NextJS, Tailwind, DSA and more stuff
+- NextJS, Tailwind, DSA and more stuff
 
 ## About me
 - Check out my portfolio website @ https://kannankarthikeyan.com
