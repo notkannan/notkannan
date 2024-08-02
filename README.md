@@ -1,8 +1,8 @@
 - Hey guys, I’m Kannan Karthikeyan - @notkannan 
-- I'm a software engineering graduate student based in Boston. MA :)
+- I'm a software engineering graduate student based in Boston, MA :)
   
-## Currently Working in
-- NextJS, Tailwind, DSA and more stuff
+## Currently curious about
+- NextJS, TailwindCSS, Cloud (AWS), Open AI
 
 ## About me
 - Check out my portfolio website @ https://kannankarthikeyan.com
