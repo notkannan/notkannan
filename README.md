@@ -8,6 +8,7 @@
 
 ## Contact and Stuff
 - Check out my portfolio website @ https://kannankarthikeyan.com
+- Here's my LinkedIn @ https://linkedin.com/in/kannankarthikeyan4
 - You can use my website to reach out to me!
 
 <!---
