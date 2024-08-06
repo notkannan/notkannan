@@ -1,5 +1,6 @@
 - Hey guys, I’m Kannan Karthikeyan - @notkannan 
 - I'm a software engineering graduate student based in Boston, MA :)
+- Originally from India
   
 ## Currently curious about
 - NextJS, TailwindCSS, Cloud (AWS), Open AI
