@@ -1,4 +1,4 @@
-## What's good
+## What's good ☕️
 - Hey guys, I’m Kannan Karthikeyan - @notkannan 
 - I'm a software engineering graduate student based in Boston, MA :)
 - Originally from India
