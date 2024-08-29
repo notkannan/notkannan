@@ -4,7 +4,7 @@
 - Originally from India
   
 ## Currently curious about
-- NextJS, TailwindCSS, Cloud (AWS), Open AI
+- NextJS, AWS & LLMs
 
 ## Contact and Stuff
 - Check out my portfolio website @ https://kannankarthikeyan.com
