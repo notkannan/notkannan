@@ -31,8 +31,8 @@ I'm a **Full Stack AI Software Engineer** passionate about solving complex probl
 ---
 
 ### 🔗 Let's Connect:
-- LinkedIn: [Kannan Karthikeyan](https://linkedin.com/in/kannankarthikeyan4/)
-- Portfolio: [kannankarthikeyan.dev](https://kannankarthikeyan.com)
+- LinkedIn: [Professional me](https://linkedin.com/in/kannankarthikeyan4/)
+- Portfolio: [super-cool portfolio (or not)](https://kannankarthikeyan.com)
 - Email: [Click Here!](mailto:karthikeyan.k@northeastern.edu)
 
 ---
