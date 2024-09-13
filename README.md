@@ -1,4 +1,4 @@
-# Hi there, I'm Kannan Karthikeyan! 👋
+# What's good, I'm Kannan Karthikeyan! 👋
 
 I'm a **Full Stack AI Software Engineer** passionate about solving complex problems through innovative and efficient solutions. With a strong focus on web development, AI, and cutting-edge technologies.
 
