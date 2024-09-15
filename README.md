@@ -1,6 +1,6 @@
 # What's good, I'm Kannan Karthikeyan! 👋
 
-I'm a **Software Engineering Grad Student @ Northeastern University** passionate about solving complex problems through innovative and efficient solutions. With a strong focus on web development, AI, and cutting-edge technologies, I spend time making apps that make my life easier :)
+I'm a **Software Engineering Grad Student @ Northeastern University** I spend time building stuff that make my life easier! (or I'll be watching soccer)
 
 ---
 
