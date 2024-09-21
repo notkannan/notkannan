@@ -31,10 +31,10 @@ I'm a **Software Engineering Grad Student @ Northeastern University** I spend ti
 ---
 
 ### 🔗 Let's Connect:
-- LinkedIn: [Professional me](https://linkedin.com/in/kannankarthikeyan4/)
+- LinkedIn: [My LinkedIn](https://linkedin.com/in/kannankarthikeyan4/)
 - Portfolio: [super-cool portfolio (or not)](https://kannankarthikeyan.com)
 - Email: [Click Here!](mailto:karthikeyan.k@northeastern.edu)
 
 ---
 
-*Thanks for stopping by! Feel free to explore my repositories and connect if you're interested in collaborating on cool projects!*
+*Thanks for stopping by! Feel free to explore my repositories and connect if you're interested in collaborating on projects!*
