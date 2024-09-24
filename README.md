@@ -10,7 +10,7 @@ I'm a **Software Engineering Grad Student @ Northeastern University** I spend ti
 - 🛠️ Building: Stuff that makes my life easier.
 - 🎯 Goal for 2024: Make projects that incorporate AI and RAG.
 - 💬 Ask me about: Full Stack Development, AI/ML, and cloud solutions.
-- ⚡ Fun Fact: I'm a football enthusiast. When I'm not coding, I'm usually watching football and cheering for my favourite club
+- ⚡ Fun Fact: When I'm not coding, I'm usually watching football and cheering for my favourite club
 
 ---
 
