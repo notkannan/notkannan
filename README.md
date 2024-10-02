@@ -26,7 +26,7 @@ I'm a **Software Engineering Grad Student @ Northeastern University** I spend ti
 
 ### 🧠 What I did recently:
 - 💻 Developed a **Pantry Tracking App** using GPT Vision API for seamless inventory management.
-- 🤖 Successfully built and deployed an **AI Chatbot** for student queries at Northeastern University.
+- 🤖 Successfully built and deployed an **AI Chatbot** for student queries at Northeastern University's Intramural Sports.
   
 ---
 
