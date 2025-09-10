@@ -6,7 +6,7 @@ I'm a **Software Engineering Grad Student @ Northeastern University** I spend ti
 
 ###  About Me:
 -  Currently working on: Shipping an app to 1000+ users
--  Learning: **Figma**, **Cloud Infrastructure**.
+-  Learning: How DBs work at the hardware level + OS
 -  Building: Stuff that makes my life easier.
 -  Fun Fact: When I'm not coding, I'm usually watching football (soccer) and repping my favourite club
 
